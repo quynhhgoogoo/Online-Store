@@ -1,0 +1,3 @@
+.dbdata/
+*.pyc
+__pycache__/
